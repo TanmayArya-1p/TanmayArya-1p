@@ -1,5 +1,4 @@
 
-<img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=TanmayArya-1p&show_icons=true&theme=tokyonight">
 <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayArya-1p&layout=compact&theme=tokyonight">
 
 
